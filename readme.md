@@ -409,7 +409,7 @@ git rebase branch_name
 
 ---
 
-### Автор статьи https://habr.com/ru/company/ruvds/blog/[Блог компании RUVDS](https://habr.com/ru/company/ruvds/blog/599929/?)
+### Автор статьи: [Блог компании RUVDS](https://habr.com/ru/company/ruvds/blog/599929/?)
 
 ---
 ---
