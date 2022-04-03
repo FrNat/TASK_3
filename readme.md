@@ -409,14 +409,10 @@ git rebase branch_name
 
 ---
 
-
+### Автор статьи https://habr.com/ru/company/ruvds/blog/[Блог компании RUVDS](https://habr.com/ru/company/ruvds/blog/599929/?)
 
 ---
-
-
-
-
-
+---
 
 
 GIT Logo by Jason Long - https://git-scm.com/images/logos/2color-lightbg@2x.png,license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
